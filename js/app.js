@@ -1,1 +1,1 @@
-github.com/KPOTIN/mk-academy/new/main
+github.com/anglais/mk-academy/new/main
